@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Amina!
 - 👀 I’m interested in Artificial Intelligence development and want to get started in this industry.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I’m currently learning about Artificial Intelligence.
 - 📫 You can reach me on LinkedIn
 
 <!---
